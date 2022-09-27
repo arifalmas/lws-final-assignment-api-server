@@ -1,12 +1,18 @@
 {
-  "name": "server",
+  "name": "lws-json-server",
+  "description": "This is final task server fo lws",
   "version": "1.0.0",
-  "description": "This is my final task server ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [],
+  "author": "Learn with Sumit",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.2"
+  }
 }
