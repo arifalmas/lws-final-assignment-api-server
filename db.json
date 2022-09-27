@@ -65,9 +65,7 @@
         "name": "Sumit Saha",
         "id": 3
       },
-      "members": [
-        "sumit@learnwithsumit.com"
-      ],
+      "members": ["sumit@learnwithsumit.com"],
       "createdAt": "2022-09-27T07:37:13.019Z",
       "id": 11
     },
@@ -80,10 +78,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com",
-        "saad@learnwithsumit.com"
-      ],
+      "members": ["arif@gmail.com", "saad@learnwithsumit.com"],
       "createdAt": "2022-09-27T10:19:37.252Z",
       "id": 12
     },
@@ -96,10 +91,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com",
-        "sumit@learnwithsumit.com"
-      ],
+      "members": ["arif@gmail.com", "sumit@learnwithsumit.com"],
       "createdAt": "2022-09-27T10:20:10.749Z",
       "id": 13
     },
@@ -112,9 +104,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com"
-      ],
+      "members": ["arif@gmail.com"],
       "createdAt": "2022-09-27T10:20:58.124Z",
       "id": 14
     },
@@ -127,9 +117,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com"
-      ],
+      "members": ["arif@gmail.com"],
       "createdAt": "2022-09-27T10:21:25.628Z",
       "id": 15
     },
@@ -142,9 +130,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com"
-      ],
+      "members": ["arif@gmail.com"],
       "createdAt": "2022-09-27T10:21:56.582Z",
       "id": 16
     },
@@ -157,9 +143,7 @@
         "name": "Arif Almas",
         "id": 1
       },
-      "members": [
-        "arif@gmail.com"
-      ],
+      "members": ["arif@gmail.com"],
       "createdAt": "2022-09-27T10:22:31.332Z",
       "id": 17
     }
